@@ -45,8 +45,9 @@ const std::string lowercaseLetters = "abcdefghijklmnopqrstuvwxyz";
 const std::string uppercaseLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const std::string numbers = "0123456789";
 const std::string specialCharacters = "!$%&?";
-Feel free to modify these character sets to suit your requirements.
 ```
+
+Feel free to modify these character sets to suit your requirements.
 
 ## License
 
