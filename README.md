@@ -1,6 +1,6 @@
-# Generate Password
+# Password Generator
 
-Generate Password is a simple command-line tool written in C++ that generates random passwords of varying lengths. It allows you to specify the desired length of the password and generates a random combination of uppercase and lowercase letters, numbers, and special characters.
+Password Generator is a simple command-line tool written in C++ that generates random passwords of varying lengths. It allows you to specify the desired length of the password and generates a random combination of uppercase and lowercase letters, numbers, and special characters.
 
 ## Features
 
